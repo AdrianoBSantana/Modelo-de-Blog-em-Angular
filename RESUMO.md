@@ -1,5 +1,7 @@
 # 🎯 RESUMO EXECUTIVO - Melhorias Implementadas
 
+**Repositório:** https://github.com/AdrianoBSantana/Modelo-de-Blog-em-Angular
+
 ## ✅ ARQUIVOS CRIADOS
 
 ### 1. **Models** (Tipagem)

@@ -8,7 +8,7 @@
 
 Um blog pessoal moderno desenvolvido com Angular 17, demonstrando conceitos fundamentais do framework.
 
-[Demo](https://seu-blog.vercel.app) · [Reportar Bug](https://github.com/AdrianoBSantana/angular-blog-DIO/issues) · [Solicitar Feature](https://github.com/AdrianoBSantana/angular-blog-DIO/issues)
+[Demo](https://seu-blog.vercel.app) · [Reportar Bug](https://github.com/AdrianoBSantana/Modelo-de-Blog-em-Angular/issues) · [Solicitar Feature](https://github.com/AdrianoBSantana/Modelo-de-Blog-em-Angular/issues)
 
 </div>
 
@@ -76,12 +76,12 @@ blog/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/AdrianoBSantana/angular-blog-DIO.git
+git clone https://github.com/AdrianoBSantana/Modelo-de-Blog-em-Angular.git
 ```
 
 2. Navegue até o diretório do projeto
 ```bash
-cd angular-blog-DIO/blog
+cd Modelo-de-Blog-em-Angular/blog
 ```
 
 3. Instale as dependências

@@ -1,6 +1,7 @@
-# 📝 RELATÓRIO DE MELHORIAS - Angular Blog DIO
+# 📝 RELATÓRIO DE MELHORIAS - Modelo de Blog em Angular
 
 Data: 19 de Outubro de 2025
+Repositório: https://github.com/AdrianoBSantana/Modelo-de-Blog-em-Angular
 
 ## 🎯 Objetivo
 Analisar e propor melhorias para o projeto Angular Blog desenvolvido como parte do curso da Digital Innovation One (DIO).
